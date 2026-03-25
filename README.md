@@ -60,6 +60,9 @@
 
 ![Tools](https://skillicons.dev/icons?i=ts,nodejs,express,angular,postgres,react,reactnative,git,github,docker,figma,vscode)
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravo29&theme=cotton_candy&area=true" width="100%" alt="Graphe d'activité Rose" />
+</p>
 
 ## 🌐 Contact Me  
 📩 **Email :** *ravotiana39@gmail.com*  
