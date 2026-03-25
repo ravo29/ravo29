@@ -1,7 +1,5 @@
 <!-- 🌟 HEADER ILLUSTRÉ PERSONNALISÉ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ravo29/ravo29/main/assets/header.png" width="100%" alt="banner">
-</p>
+
 
 # 👨‍💻 Passionate Full Stack Developer — Madagascar 🇲🇬
 
@@ -71,14 +69,6 @@ Components modernes prêts à l’emploi : modals, forms, tables filtrables, das
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ravo29/ravo29/output/snake.svg" alt="Snake animation"/>
-</p>
-
----
-
 ## 🛠️ Tools I Use
 
 ![Tools](https://skillicons.dev/icons?i=ts,nodejs,express,angular,postgres,react,reactnative,git,github,docker,figma,vscode)
@@ -86,8 +76,8 @@ Components modernes prêts à l’emploi : modals, forms, tables filtrables, das
 ---
 
 ## 🌐 Contact Me  
-📩 **Email :** *(Ajoute ton email ici)*  
-🔗 **LinkedIn :** *(Ajoute ton lien ici)*  
+📩 **Email :** *ravotiana39@gmail.com*  
+🔗 **LinkedIn :** *ravotiana*  
 
 ---
 
