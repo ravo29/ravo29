@@ -51,10 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ravo29&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravo29&theme=cotton_candy&area=true" width="100%" alt="Graphe d'activité Rose" />
-</p>
----
 
 ## 🛠️ Tools I Use
 
