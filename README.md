@@ -42,16 +42,6 @@
 
 ---
 
-### 📈 Mon Activité GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravo29&theme=react-dark&area=true" width="100%" alt="Graphe d'activité" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravo29&layout=compact&theme=react&hide_border=true" alt="Langages les plus utilisés" />
-</p>
-
 
 ## 📊 GitHub Stats
 
