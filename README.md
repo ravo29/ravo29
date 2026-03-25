@@ -26,36 +26,7 @@
 
 ---
 
-# 📂 Projects (Stylé)
 
-### 🚀 **1. Career Management System — PEAN Fullstack**
-📌 **Angular — Node.js — PostgreSQL — Express**  
-Un système complet de gestion de carrière, historique dynamique, automatisation, dashboard.
-
-🔗 Repo : *(Ajoute le lien ici)*
-
----
-
-### 📱 **2. React Native Mobile App**
-Application mobile moderne avec navigation fluide & API backend.
-
-🔗 Repo : *(Ajoute le lien ici)*
-
----
-
-### 🧰 **3. API Node.js Ultra Clean (Architecture modulaire)**
-API scalable en TypeScript, architecture propre (controllers/services/modules).
-
-🔗 Repo : *(Ajoute le lien ici)*
-
----
-
-### 🎨 **4. UI Kits & Angular Components**
-Components modernes prêts à l’emploi : modals, forms, tables filtrables, dashboards.
-
-🔗 Repo : *(Ajoute le lien ici)*
-
----
 
 ## 📊 GitHub Stats
 
@@ -74,6 +45,7 @@ Components modernes prêts à l’emploi : modals, forms, tables filtrables, das
 ![Tools](https://skillicons.dev/icons?i=ts,nodejs,express,angular,postgres,react,reactnative,git,github,docker,figma,vscode)
 
 ---
+[![Graphe d'activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=VOTRE_PSEUDO&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌐 Contact Me  
 📩 **Email :** *ravotiana39@gmail.com*  
