@@ -48,11 +48,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-ravo29.vercel.app/api?username=ravo29&show_icons=true&hide_border=true&border_radius=20&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="55%" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=ravo29&show_icons=true&theme=tokyonight&hide_border=false&border_radius=15"
+       width="55%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-ravo29.vercel.app/api/top-langs/?username=ravo29&layout=compact&hide_border=true&border_radius=20&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="45%" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravo29&layout=compact&theme=tokyonight&hide_border=false&border_radius=15"
+       width="45%" />
 </p>
 
 <p align="center">
