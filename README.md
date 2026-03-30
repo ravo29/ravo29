@@ -46,10 +46,7 @@
 
 
 ## 📊 GitHub Stats
-![Vos stats GitHub](https://github-readme-stats.vercel.app/api?username=ravo29&show_icons=true&theme=tokyonight)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravo29&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravo29&layout=compact&theme=tokyonight" alt="Top Langs" />
 
 
 <p align="center">
