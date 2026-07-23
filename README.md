@@ -1,27 +1,27 @@
-<!-- 🌟 HEADER ILLUSTRÉ PERSONNALISÉ -->
+<!-- HEADER ILLUSTRÉ PERSONNALISÉ -->
 
 
-# 👨‍💻 Passionate Full Stack Developer — Madagascar 🇲🇬
+#  Passionate Full Stack Developer — Madagascar 🇲🇬
 
 ![Profile views](https://komarev.com/ghpvc/?username=ravo29&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎯 **Angular Developer specialized in PEAN Stack**  
-- 📱 Mobile developer using **React Native**  
-- 🎨 Passionate about **clean UI** and **smooth UX**  
-- 🔥 Fan de TypeScript avancé  
-- 🛠️ Toujours en quête d’architecture propre & scalable  
+- **Angular Developer specialized in PEAN Stack**  
+- Mobile developer using **React Native ,Flutter**  
+- Passionate about **clean UI** and **smooth UX**  
+-  Fan de TypeScript avancé  
+- Toujours en quête d’architecture propre & scalable  
 
-# 👋 Salut, moi c'est ravo29 !
+# Salut, moi c'est ravo29 !
 
 ---
 
-### 🚀 Mon Stack Technique
+###  Mon Stack Technique
 
-#### 🌐 Frontend
+####  Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -37,7 +37,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### 🧰 Tools
+####  Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -54,7 +54,7 @@
 
 
 
-## 🛠️ Tools I Use
+##  Tools I Use
 
 ![Tools](https://skillicons.dev/icons?i=ts,nodejs,express,angular,postgres,react,reactnative,git,github,docker,figma,vscode)
 
