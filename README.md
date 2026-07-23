@@ -64,7 +64,8 @@
 
 ## 🌐 Contact Me  
 📩 **Email :** *ravotiana39@gmail.com*  
-🔗 **LinkedIn :** *ravotiana*  
+🔗 **LinkedIn :** *www.linkedin.com/in/
+ravo-tiana-87550b37b*  
 
 ---
 
