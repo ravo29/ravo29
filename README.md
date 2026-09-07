@@ -1,7 +1,7 @@
 <!-- HEADER ILLUSTRÉ PERSONNALISÉ -->
 
 
-#  Passionate Full Stack Developer — Madagascar 🇲🇬
+#  Passionate Full Stack Developer 
 
 ![Profile views](https://komarev.com/ghpvc/?username=ravo29&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -15,7 +15,7 @@
 -  Fan de TypeScript avancé  
 - Toujours en quête d’architecture propre & scalable  
 
-# Salut, moi c'est ravo29 !
+# Salut, moi c'est RANAIVOSON Fanomezantsoa Ravotiana!
 
 ---
 
