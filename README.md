@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ravo29/ravo29/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ravo29/ravo29/output/github-contribution-grid-snake.svg?v=2" alt="Snake animation" />
 </p>
 
 ## 🌐 Me Contacter  
