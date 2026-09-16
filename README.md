@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.gif" width="100%" alt="Header GIF Animé" />
+  <img src="./assets/header.gif" width="50%" alt="Header GIF Animé" />
 </p>
 
 # 🚀 Développeuse Web & Mobile | Passionate Full Stack Developer
@@ -73,7 +73,7 @@
   <img src="https://raw.githubusercontent.com/ravo29/ravo29/output/github-contribution-grid-snake.svg?v=2" alt="Snake animation" />
 </p>
 
-## 🌐 Me Contacter  
+## Me Contacter  
 
 📩 **Email :** *ravotiana39@gmail.com* 🔗 **LinkedIn :** [www.linkedin.com/in/ravo-tiana-87550b37b](https://www.linkedin.com/in/ravo-tiana-87550b37b)  
 
