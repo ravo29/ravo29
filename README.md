@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.gif" width="50%" alt="Header GIF Animé" />
+  <img src="./assets/header.gif" width="20%" alt="Header GIF Animé" />
 </p>
 
 <!-- HEADER ILLUSTRÉ PERSONNALISÉ -->
