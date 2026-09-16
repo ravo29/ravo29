@@ -22,14 +22,14 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # Génère le graphique Snake au format SVG
+      # Génère le graphique Snake au format SVG avec fond clair/blanc
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-light
+            dist/github-contribution-grid-snake-dark.svg?palette=github-light
 
       # Déploie le fichier SVG sur la branche output
       - name: push github-contribution-grid-snake.svg to the output branch
