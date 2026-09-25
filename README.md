@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.gif" width="45%" alt="Header GIF Animé" />
+  <img src="./assets/header.gif" width="4%" alt="Header GIF Animé" />
 </p>
 
 #  Apprentie en Développement Web & Mobile | Passionnée par le Full Stack
